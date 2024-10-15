@@ -1,4 +1,4 @@
-```markdown
+
 # Track My Resume Application
 
 **Track My Resume Application** is an advanced Applicant Tracking System (ATS) leveraging the power of the Gemini Pro LLM model for natural language processing, text classification, and analysis. This application simplifies the hiring process by allowing users to manage, track, and extract text from resumes in various formats such as PDF and DOCX, all through an intuitive web interface built with Streamlit.
@@ -34,13 +34,13 @@ Follow these steps to set up and run the project locally.
 Start by cloning the project from GitHub:
 
 ```bash
-git clone https://github.com/Gitesh08/Track-my-resume.git
+git clone https://github.com/gpw2002/ATS-Optimized-Resume-Analyzer.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd Track-my-resume
+cd CC-ATS-RESUME
 ```
 
 ### 3. Set Up a Python Virtual Environment
@@ -48,7 +48,7 @@ cd Track-my-resume
 To keep dependencies isolated, create a virtual environment:
 
 ```bash
-python -m venv venv
+python -m venv
 ```
 
 Activate the virtual environment:
