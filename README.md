@@ -1,5 +1,3 @@
-Here’s the raw content for your README file:
-
 ```markdown
 # Track My Resume Application
 
@@ -134,4 +132,3 @@ Special thanks to:
 
 - **Google Cloud** for the Gemini Pro LLM and Generative AI.
 - **Streamlit** for enabling rapid web app development.
-```
