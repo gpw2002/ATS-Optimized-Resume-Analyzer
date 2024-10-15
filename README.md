@@ -1,7 +1,7 @@
 
-# Track My Resume Application
+# ATS-Optimized Resume Analyzer Application
 
-**Track My Resume Application** is an advanced Applicant Tracking System (ATS) leveraging the power of the Gemini Pro LLM model for natural language processing, text classification, and analysis. This application simplifies the hiring process by allowing users to manage, track, and extract text from resumes in various formats such as PDF and DOCX, all through an intuitive web interface built with Streamlit.
+**ATS-Optimized Resume Analyzer Application** is an advanced Applicant Tracking System (ATS) leveraging the power of the Gemini Pro LLM model for natural language processing, text classification, and analysis. This application simplifies the hiring process by allowing users to manage, track, and extract text from resumes in various formats such as PDF and DOCX, all through an intuitive web interface built with Streamlit.
 
 ## 🚀 Features
 
@@ -103,12 +103,6 @@ The user-friendly interface provides the following sections:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for new features, improvements, or bug fixes, feel free to:
-
-1. **Open an Issue**: Describe the feature/bug you're addressing.
-2. **Submit a Pull Request**: Make sure your PR is clear and concise.
 
 ### Development Workflow:
 
