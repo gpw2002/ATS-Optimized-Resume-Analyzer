@@ -1,0 +1,11 @@
+# libraries need to be installed
+streamlit
+streamlit_extras
+google-generativeai
+python-dotenv
+PyPDF2
+Pillow
+streamlit_lottie
+virtualenv
+pdf2image
+docx2txt
